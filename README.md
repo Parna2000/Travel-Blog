@@ -1,2 +1,2 @@
 # Travel-Blog
-Web development
+Learning Web development
